@@ -20,6 +20,8 @@ Especialista
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandro-Alexandre-Olmedo&repo=HelloWorld&theme=dark)]([https://github.com/Sandro-Alexandre-Olmedo/HelloWorld])
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandro-Alexandre-Olmedo&repo=Analistadedados&theme=dark)]([https://github.com/Sandro-Alexandre-Olmedo/AnalistadeDados.git])
 
+## Linguagens utilizadas:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandro-Alexandre-Olmedo&hide_progress=true)
 
 ## Contato:
 
