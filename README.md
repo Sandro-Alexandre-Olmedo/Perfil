@@ -5,9 +5,9 @@
 
 
 ![swift](https://img.shields.io/badge/PowerBI-FA7343?style=for-the-badge&logo=PowerBI&logoColor=white)
-![swift](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 ![swift](https://img.shields.io/badge/Python-FFD438?style=for-the-badge&logo=Python&logoColor=blue)
-![swift](https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=grey)
+![swift](https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=blue)
+![swift](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R&logoColor=white)
 
 ## Detalhes:
 
@@ -18,7 +18,7 @@
 
 ## Contato:
 
-[<img src='https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/sandro-alexandre-64004991/)
+[<img src='https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white' alt='' height='30' target='_blank'>](https://www.linkedin.com/in/sandro-alexandre-64004991/)
 
 
 
