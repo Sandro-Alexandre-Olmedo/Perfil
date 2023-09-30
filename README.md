@@ -4,7 +4,7 @@
 
 
 
-![swift](https://img.shields.io/badge/swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![swift](https://img.shields.io/badge/PowerBI-FA7343?style=for-the-badge&logo=PowerBI&logoColor=white)
 ![swift](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 ![swift](https://img.shields.io/badge/Python-FFD438?style=for-the-badge&logo=Python&logoColor=blue)
 ![swift](https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=grey)
