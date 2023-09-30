@@ -1,5 +1,8 @@
 # Analista de Dados 👋
 
+### Sobre o Sandro:
+Especialista
+
 ## Habilidades:
 
 
