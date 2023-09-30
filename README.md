@@ -18,7 +18,7 @@
 
 ## Contato:
 
-[<img src='https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white' alt='' height='30' target='_blank'>](https://www.linkedin.com/in/sandro-alexandre-64004991/)
+[<img src='https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/sandro-alexandre-64004991/)
 
 
 
