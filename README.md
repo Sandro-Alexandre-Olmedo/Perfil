@@ -14,7 +14,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandro-Alexandre-Olmedo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projetos:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandro-Alexandre-Olmedo&repo=Sandro-Alexandre-Olmedo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandro-Alexandre-Olmedo&repo=HelloWorld&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contato:
 
