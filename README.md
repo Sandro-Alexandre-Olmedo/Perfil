@@ -22,6 +22,11 @@ Formado em Ciências Contábeis pela Universidade Paulista(Unip). Apaixonado por
 ## Linguagens utilizadas:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandro-Alexandre-Olmedo&langs_count=8)
 
+
+## Projects
+
+![Telegram Data API](https://github.com/Sandro-Alexandre-Olmedo/api-telegram.git)
+
 ## Contato:
 
 [<img src='https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/sandro-alexandre-64004991/)
