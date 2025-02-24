@@ -1,11 +1,7 @@
 # Analista de Dados 👋
 
 ### Sobre o Sandro:
-Formado em Ciências Contábeis pela Universidade Paulista(Unip)
-Apaixonado por TI relacionado a dados
-Apaixonado por Excel;
-Apaixonado por Power BI;
-Apaixonado por Locker Studio;
+Formado em Ciências Contábeis pela Universidade Paulista(Unip). Apaixonado por TI relacionado a dados, Excel, Power BI, Locker Studio...
 
 ## Habilidades:
 
@@ -23,8 +19,8 @@ Apaixonado por Locker Studio;
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandro-Alexandre-Olmedo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projetos:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandro-Alexandre-Olmedo&repo=HelloWorld&theme=dark)]([https://github.com/Sandro-Alexandre-Olmedo/HelloWorld])
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandro-Alexandre-Olmedo&repo=Analistadedados&theme=dark)]([https://github.com/Sandro-Alexandre-Olmedo/AnalistadeDados.git])
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandro-Alexandre-Olmedo&repo=api-telegram&theme=dark)]([https://github.com/Sandro-Alexandre-Olmedo/api-telegram])
+
 
 ## Linguagens utilizadas:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandro-Alexandre-Olmedo&langs_count=8)
