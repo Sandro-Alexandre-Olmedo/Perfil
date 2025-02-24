@@ -1,11 +1,13 @@
 # Analista de Dados 👋
 
 ### Sobre o Sandro:
-Especialista
+Formado em Ciências Contábeis pela Universidade Paulista(Unip)
+Apaixonado por TI relacionado a dados
+Apaixonado por Excel;
+Apaixonado por Power BI;
+Apaixonado por Locker Studio;
 
 ## Habilidades:
-
-
 
 ![swift](https://img.shields.io/badge/PowerBI-FA7343?style=for-the-badge&logo=PowerBI&logoColor=white)
 ![swift](https://img.shields.io/badge/Python-FFD438?style=for-the-badge&logo=Python&logoColor=blue)
