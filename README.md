@@ -19,7 +19,7 @@ Formado em Ciências Contábeis pela Universidade Paulista(Unip). Apaixonado por
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandro-Alexandre-Olmedo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projetos:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sandro-Alexandre-Olmedo&repo=api-telegram&theme=dark)]([https://github.com/Sandro-Alexandre-Olmedo/api-telegram])
+[![Readme Card]([https://github.com/Sandro-Alexandre-Olmedo/api-telegram])
 
 
 ## Linguagens utilizadas:
