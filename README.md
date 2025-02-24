@@ -18,9 +18,6 @@ Formado em Ciências Contábeis pela Universidade Paulista(Unip). Apaixonado por
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandro-Alexandre-Olmedo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## Projetos:
-[![Readme Card]([https://github.com/Sandro-Alexandre-Olmedo/api-telegram])
-
 
 ## Linguagens utilizadas:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandro-Alexandre-Olmedo&langs_count=8)
@@ -29,7 +26,7 @@ Formado em Ciências Contábeis pela Universidade Paulista(Unip). Apaixonado por
 
 [<img src='https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/sandro-alexandre-64004991/)
 
-
+- 🔭 I’m currently working on ...
 
 <!--
 **Sandro-Alexandre-Olmedo/Sandro-Alexandre-Olmedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
