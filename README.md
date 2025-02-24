@@ -11,11 +11,9 @@ Especialista
 ![swift](https://img.shields.io/badge/Python-FFD438?style=for-the-badge&logo=Python&logoColor=blue)
 ![swift](https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=blue)
 ![swift](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R&logoColor=white)
-
 ![Telegram](https://img.shields.io/badge/-Telegram_Bots-blue?style=flat-square&logo=telegram) 
 ![Amazon AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=sqlite)
+
 
 
 ## Detalhes:
